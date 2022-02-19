@@ -14,4 +14,4 @@ const exibeNomeNota = (nomeDoAluno) => {                    //.includes() retorn
     }
 }
 
-console.log(exibeNomeNota("Ana"))
+console.log(exibeNomeNota("Ana"))    //
