@@ -1,9 +1,10 @@
+```
 idades = [30, 35, 28]
 nomes = ["Ana", "Juliana", "Leonardo"]
 faculdade = [false, true, true]
 
 funcionarios = [nomes,idades,faculdade]
-
+```
 
 
 O array funcionarios é um array de duas dimensões. Há 3 arrays dentro dele, e para acessar os valores em funcionarios precisamos de 2 colchetes “[ ] [ ]”. O primeiro colchete será usado para escolher qual dos 3 arrays dentro de funcionarios será acessado. podendo ser:
