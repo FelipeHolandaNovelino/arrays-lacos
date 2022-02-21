@@ -1,0 +1,1 @@
+-Mais práticas para resolver problemas com arrays utilizando os métodos callback filter() e reduce().
