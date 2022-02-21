@@ -7,6 +7,6 @@ listaChamada.splice(1, 2, 'Rodrigo'); //-podemo usar o splice sem o ultimo eleme
                                      //0 como segundo parametro
                                      //-exp: listaChamada.splice(2, 0, 'Rodrigo')
                                      //Nao ira remover nenhum elemento e ira adicionar o rodrigo logo apos
-                                     //o elemento 2
+                                     //o elemento 2.
 
 console.log(`Lista de chamada ${listaChamada}`)
