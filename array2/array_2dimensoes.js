@@ -6,4 +6,4 @@ let listaDeNotasEalunos = [alunos,mediasDosAlunos];
 console.log(`${listaDeNotasEalunos [0][0]},sua media e ${listaDeNotasEalunos[1][0]}`)
                 //para acessar um item especifico de uma lista de 2 dimensoes   
                 //precisamoss usar um [] para acessar o primeiro indice que esta na lista 
-                // de 2 dimensoes e + outro [] para acessar um indice do primeiro item selecionado
+                // de 2 dimensoes e + outro [] para acessar um indice do primeiro item selecionado.
