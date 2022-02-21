@@ -8,4 +8,4 @@ jantarDeHoje.push('🥗')
 jantarDeHoje.push('🍏')
 
 console.log(jantarDeHoje) 
- //[ '🍔', '🍳', '🥗', '🍏' ]
+ //[ '🍔', '🍳', '🥗', '🍏' ].
